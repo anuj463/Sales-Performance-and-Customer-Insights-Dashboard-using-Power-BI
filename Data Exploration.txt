@@ -1,0 +1,2 @@
+In this step I explored the dataset and found that there is a need to 
+perform data cleaning on different fields of the dataset.

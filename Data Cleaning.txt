@@ -1,0 +1,11 @@
+1. Used replace values option in power query editor to replace the encoding character of indian
+rupee(â‚¹) with nothing or blank in the discounted price column.
+
+2. Used replace values option in power query editor to replace the encoding character of
+indian rupee(â‚¹) with nothing or blank in the actual price column.
+
+3. Then I found that the records of user name column are containing
+many names, so after this I clicked split user name column by delimiter
+and then unpivoted the user name column thereby placing the user name
+of the customer into different rows thereby increasing the visibility
+of the dataset.

@@ -1,0 +1,10 @@
+1. Depending upon which products generate highest and lowest revenue 
+based actual and discounted price the company should provide more 
+offers on high revenue products to the customers and thereby elevating
+the business of the company.
+
+2. Depending upon which product categories contribute the most to total
+sales and customer engagement the company should identify those product
+categories that are generating most sales which means those product 
+categories have high customer engagement and should increase the products
+in those product categories.
