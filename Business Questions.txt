@@ -1,0 +1,13 @@
+ 1️.Which products generate the highest and lowest revenue 
+(based on actual and discounted prices)?
+
+2.How does discount percentage affect product ratings and sales price?
+
+3.Which product categories contribute the most to total sales and 
+customer engagement?
+
+4.What is the relationship between product rating and rating count 
+(popularity vs satisfaction)?
+
+5.Which products provide the best value for money 
+(high rating but low discounted price)?
