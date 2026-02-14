@@ -1,2 +1,2 @@
 # Sales-Performance-and-Customer-Insights-Dashboard-using-Power-BI
-Analyzed the sales dataset and found business insights combined with analysis and business recommendations.
+Analyzed the sales dataset and found business insights combined with analysis and business recommendations which will help the company to optimize there efforts and maximize the profits.
